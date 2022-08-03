@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PwintYeeMon &theme=radical)
+* 🎓 I recently graduated with computer science fron University of Greenwich.
+* 💻 I'm currenly working as a UX Designer.
+* 📫 Reach me on pwintyeemon@gmail.com
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PwintYeeMon&theme=radical) -->
+[![PwintYeeMon's github stats](https://github-readme-stats.vercel.app/api?username=PwintYeeMon)](https://github.com/pwintyeemon/github-readme-stats)

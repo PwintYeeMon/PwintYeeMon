@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 * 📫 Reach me on pwintyeemon@gmail.com
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PwintYeeMon&theme=radical) -->
-[![PwintYeeMon's github stats](https://github-readme-stats.vercel.app/api?username=PwintYeeMon)](https://github.com/pwintyeemon/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PwintYeeMon&layout=compact)](https://github.com/pwintyeemon/github-readme-stats)
+[![PwintYeeMon's github stats](https://github-readme-stats.vercel.app/api?username=PwintYeeMon)](https://github.com/PwintYeeMon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PwintYeeMon&layout=compact)](https://github.com/PwintYeeMon/github-readme-stats)

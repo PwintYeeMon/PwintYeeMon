@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * 🎓 I hold a bachelor's degree from University of Greenwich in Computing, specialising in Information Systems. 
-* ✨ I got exposed to the UX world when I took a module in Human Computer Interaction Design.
+* ✨ I gained exposure to the UX world when I took a module in Human Computer Interaction Design.
 * 💻 And now, I'm working as a UX Designer!
 * 📫 Reach me on pwintyeemon@gmail.com
 

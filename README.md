@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * ✨ I gained exposure to the UX world when I took a module in Human Computer Interaction Design and developed an interest in this field ever since.
 * 😄 Since then, I've been self-studying about HCI and UX and have participated in hackathons as a UX UI Designer, completed Google UX Design courses, attended a mini bootcamp and a summer accelarator.
 * 💻 And now, I'm working as a UX Designer!
+* 📱 Check out some of the personal projects I did on Behance: https://www.behance.net/pwintyeemon
 * 📫 Reach me on pwintyeemon@gmail.com
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PwintYeeMon&theme=radical) -->
